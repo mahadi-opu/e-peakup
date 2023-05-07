@@ -1,0 +1,6 @@
+#tasks
+
+- Content upload - DONE
+
+- Stripe 3.70% add
+- Paypal problem
